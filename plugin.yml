@@ -1,0 +1,8 @@
+main: fr.kenshimdev.BrokenLeg
+name: BrokenLeg
+version: 1.7.2
+author: Tanki_Wide
+depend: [Vault]
+commands:
+  bl:
+    description: Commandes de BrokenLeg
